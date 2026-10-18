@@ -1,0 +1,7 @@
+# Segredos e dados do agente: nunca versionar
+.env
+*.env
+data/
+backups/
+*.tar.gz
+*.log

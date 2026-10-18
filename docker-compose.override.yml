@@ -1,0 +1,5 @@
+services:
+  gateway:
+    network_mode: bridge
+  dashboard:
+    network_mode: bridge
